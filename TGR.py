@@ -1,3 +1,10 @@
+"""
+TGR 2.0.0
+Author : Merwin
+A module for doing minimal graphic rendering in the terminal.
+"""
+
+
 import time
 import os
 import cv2
