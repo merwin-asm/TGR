@@ -295,6 +295,9 @@ statement provided by the pyTGR class.
         """
 # pyTGR.term_history , can be used to access the terminal history.
 ```
+## Examples Provided:
+Examples are provided in the Examples class.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
