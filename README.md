@@ -6,10 +6,10 @@ A minimal lib for rendering things on Terminal.
 
 ## Installation
 
-Install pyTGR3 with pip
+Install pyTGR with pip
 
 ```bash
-  pip install pyTGR3
+  pip install pyTGR
 ```
     
 ## Features
@@ -26,7 +26,7 @@ Install pyTGR3 with pip
 
 ```python
 import pyTGR3
-renderer = pyTGR3.pyTGR()
+renderer = pyTGR.pyTGR()
 ```
 
 Terminal Related Functions:
