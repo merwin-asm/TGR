@@ -25,7 +25,7 @@ Install pyTGR with pip
 ## Usage/Examples
 
 ```python
-import pyTGR3
+import pyTGR
 renderer = pyTGR.pyTGR()
 ```
 
