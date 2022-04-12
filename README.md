@@ -1,6 +1,6 @@
 
 # pyTGR3
-
+[![Downloads](https://static.pepy.tech/personalized-badge/pytgr?period=total&units=international_system&left_color=blue&right_color=orange&left_text=Downloads)](https://pepy.tech/project/pytgr)
 A minimal lib for rendering things on Terminal.
 
 
