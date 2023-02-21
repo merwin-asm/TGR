@@ -3,7 +3,6 @@
 
 [![Downloads](https://static.pepy.tech/personalized-badge/pytgr?period=total&units=international_system&left_color=blue&right_color=orange&left_text=Downloads)](https://pepy.tech/project/pytgr)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=meriwn-TGR&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
 A minimal lib for rendering things on Terminal.
 
 
