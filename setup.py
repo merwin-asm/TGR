@@ -16,7 +16,7 @@ setup(
     name="pyTGR3",
     version=VERSION,
     author="Merwin",
-    author_email="<merwinmathews1001@gmail.com>",
+    author_email="<pp.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
